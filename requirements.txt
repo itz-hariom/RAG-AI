@@ -1,0 +1,10 @@
+sentence-transformers
+chromadb
+pdfplumber
+python-dotenv
+streamlit
+groq
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
